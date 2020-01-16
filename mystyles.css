@@ -1,0 +1,37 @@
+ /*body {
+    background: linear-gradient(to bottom, MidnightBlue 0%, MidnightBlue 30%, LightSteelBlue 25%, LightSteelBlue 100%);
+  }
+
+  h1 {
+    color: white;
+  }
+
+  p {
+    font-size: 30px;
+  }
+
+  body {
+    marginleft: 900px;
+  }
+  head {
+  }
+} 
+div {
+  background-color: LimeGreen
+}*/
+
+#loginContainer {
+  background: antiquewhite;
+  height: 60px;
+  padding: 20px;
+}
+
+#fbTitle {
+  float: left;
+  font-size:-webkit-xxx-large;
+  color:brown;
+}
+
+#loginBody {
+ float: right; 
+}
